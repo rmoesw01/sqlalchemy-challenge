@@ -1,3 +1,9 @@
+# Resource Files
+hawaii.sqlite3
+hawaii_measurements.csv
+hawaii_stations.csv
+Resources/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
